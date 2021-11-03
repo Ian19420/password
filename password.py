@@ -1,4 +1,4 @@
-password = 'a123456'
+password = 'a12345'
 ans = input('請輸入密碼:')
 i = 1
 t = 2
